@@ -1,0 +1,20 @@
+## missi-user 15 AQ3A.240829.003 OS2.0.206.0.VNGMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: bengal
+- Codename: mivendor
+- Brand: Redmi
+- Flavor: missi-user
+- Release Version: 15
+- Kernel Version: 5.15.167
+- Id: AQ3A.240829.003
+- Incremental: OS2.0.206.0.VNGMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/sm6225/mivendor:13/TKQ1.221114.001/OS2.0.206.0.VNGMIXM:user/release-keys
+- OTA version: 
+- Branch: missi-user-15-AQ3A.240829.003-OS2.0.206.0.VNGMIXM-release-keys
+- Repo: redmi_mivendor_dump
